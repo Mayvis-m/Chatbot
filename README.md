@@ -21,3 +21,5 @@ Loops
 Interactive coding
 
 Input/Output
+
+Functions
